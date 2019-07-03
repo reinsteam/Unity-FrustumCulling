@@ -9,7 +9,7 @@ A short example to compare performance of simple frustum culling implemented usi
 | __Unity.Mathematics__  compiled with __Burst__ | optional, via __Unity.Jobs__
 | Native code via __Plugins__                    | -
 
-![width=50px](Pictures/Showcase.png)
+![](https://raw.githubusercontent.com/reinsteam/Unity-FrustumCulling/master/Pictures/Showcase.png)
 
 ## Package Dependencies
 
